@@ -1,4 +1,4 @@
-MyInventory App (Aplicación Móvil para el manejo de inventario) creada con Flutter e integrando NodeJS
+MyInventory App (Aplicación Móvil para el manejo de inventario) creada con Flutter integrando NodeJS
 
 Base de Datos utilizada MongoDB
 
